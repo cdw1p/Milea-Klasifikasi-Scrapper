@@ -1,0 +1,25 @@
+{
+  "name": "milea-klasifikasi-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdw1p/Milea-Klasifikasi-Scrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdw1p/Milea-Klasifikasi-Scrapper/issues"
+  },
+  "homepage": "https://github.com/cdw1p/Milea-Klasifikasi-Scrapper#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "fs": "^0.0.1-security",
+    "json2xls": "^0.1.2",
+    "node-xlsx": "^0.17.2"
+  }
+}
